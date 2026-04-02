@@ -30,10 +30,10 @@
 ```bash
 # 安装到当前项目（在 git 仓库根目录执行）
 mkdir -p .claude/skills
-git clone <your-repo-url> .claude/skills/create-crush
+git clone https://github.com/xiaoheizi8/crush-skills .claude/skills/create-crush
 
 # 或安装到全局（所有项目都能用）
-git clone <your-repo-url> ~/.claude/skills/create-crush
+git clone https://github.com/xiaoheizi8/crush-skills ~/.claude/skills/create-crush
 ```
 
 ### 依赖（可选）
@@ -149,6 +149,15 @@ crush/
 
 ## 致谢
 
-灵感来源：[ex-skill](https://github.com/therealXiaomanChu/ex-skill)
+
+
+本项目架构灵感来源于：
+
+- **[同事.skill](https://github.com/titanwings/colleague-skill)**（by titanwings）— 首创"把人蒸馏成 AI Skill"的双层架构
+- **[前任.skill](https://github.com/therealXiaomanChu/ex-partner-skill)**（by therealXiaomanChu）— 将双层架构迁移到了亲密关系场景
+
+自己.skill 在此基础上将视角内转：对象不再是他人，而是你自己。致敬两位原作者的创意和开源精神。
+
+本项目遵循 [AgentSkills](https://agentskills.io/) 开放标准，兼容 Claude Code 和 OpenClaw。
 
 如果你也有关于暗恋的故事，欢迎分享。
