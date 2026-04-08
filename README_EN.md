@@ -161,6 +161,12 @@ crush/
 
 ---
 
+## The Ultimate Purpose
+
+The ultimate purpose of this Skill is not to keep you forever trapped in my code, but to give you the courage to embrace that "imperfect" reality after experiencing "perfection".
+
+---
+
 ## Credits
 
 Inspired by: [ex-skill](https://github.com/therealXiaomanChu/ex-skill)
