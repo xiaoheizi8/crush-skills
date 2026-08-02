@@ -1,7 +1,7 @@
 ---
 name: create-crush
 description: Distill a crush into an AI Skill. Import chat history, photos, social media, generate Relationship Memory + Persona, with continuous evolution. | 把暗恋对象蒸馏成 AI Skill，导入聊天记录、照片、朋友圈，生成 Relationship Memory + Persona，支持持续进化。
-argument-hint: [crush-name-or-slug]
+argument-hint: "[crush-name-or-slug]"
 version: 1.0.0
 user-invocable: true
 allowed-tools: Read, Write, Edit, Bash
